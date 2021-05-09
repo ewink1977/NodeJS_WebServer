@@ -16,6 +16,8 @@ function findById(id) {
 
 function create(product) {
 	return new Promise((resolve, reject) => {
+		// Rather than using UUID as in the tutorial, I decided to create a new
+		// ID based on the last time in the JSON file's ID.
 		const lastItem = products[products.length - 1]
 		const newId = Number(lastItem.id) + 1
 		const newProduct = { id: newId, ...product }
