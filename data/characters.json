@@ -1,0 +1,52 @@
+{
+	"characters": [
+		{
+			"id": 1,
+			"name": "Ranma Saotome",
+			"age": 16,
+			"gender": "male",
+			"fiancee": ["Akane", "Shampoo", "Ukyou"],
+			"abilities": {
+				"skills": ["speed", "strength"],
+				"attacks": ["chestnut fist", "Moko Takabisha", "Catfist"]
+			},
+			"image": "https://cdn-eu.anidb.net/images/main/30262.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Ranma Saotome",
+			"age": 16,
+			"gender": "female",
+			"fiancee": ["Akane", "Shampoo", "Ukyou"],
+			"abilities": {
+				"skills": ["speed", "sexiness"],
+				"attacks": ["chestnut fist", "Moko Takabisha", "Catfist"]
+			},
+			"image": "https://cdn-eu.anidb.net/images/main/26086.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Akane Tendo",
+			"age": 16,
+			"gender": "female",
+			"fiancee": "Ranma",
+			"abilities": {
+				"skills": ["strength", "poison"],
+				"attacks": ["martial arts"]
+			},
+			"image": "https://cdn-eu.anidb.net/images/main/26138.jpg"
+		},
+		{
+			"id": 4,
+			"name": "Shampoo",
+			"age": 16,
+			"gender": "female",
+			"fiancee": "Ranma",
+			"abilities": {
+				"skills": ["speed", "kawaii"],
+				"attacks": ["martial arts", "swords"]
+			},
+			"image": "https://cdn-eu.anidb.net/images/main/26138.jpg"
+		}
+	]
+}
